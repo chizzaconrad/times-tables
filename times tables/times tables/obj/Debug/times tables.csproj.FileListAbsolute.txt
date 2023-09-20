@@ -1,0 +1,7 @@
+H:\times tables\times tables\bin\Debug\times tables.exe.config
+H:\times tables\times tables\bin\Debug\times tables.exe
+H:\times tables\times tables\bin\Debug\times tables.pdb
+H:\times tables\times tables\obj\Debug\times tables.csproj.AssemblyReference.cache
+H:\times tables\times tables\obj\Debug\times tables.csproj.CoreCompileInputs.cache
+H:\times tables\times tables\obj\Debug\times tables.exe
+H:\times tables\times tables\obj\Debug\times tables.pdb
